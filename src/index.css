@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('./Components/Portfolio/assets/images/giphBg2.gif'); */
+  background-image: url('./Components/Portfolio/assets/images/giphBg2.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  /* background: rgb(67,206,162);
+  background: linear-gradient(90deg, rgba(67,206,162,1) 0%, rgba(24,90,157,1) 100%);
+  color: white; */
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+code {
+}
